@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Angular.js and MERN stack is going now in KGisl College**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sabarinathanan/Portfolio](https://github.com/Sabarinathanan/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Sabarinathanan/Portfolio)
 
 - 💬 Ask me about **MERN**
 
--  📄 Know about my experiences [https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk](https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk)
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk)
 
 - 📫 How to reach me **sabariraj773@gmail.com**
 <hr width="100%">

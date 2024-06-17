@@ -14,7 +14,7 @@
 <a href="https://fb.com/bulletsabari.raj?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bulletsabari.raj?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="correpted_character_8.0?igsh=eghynxk3owe5dnns" height="30" width="40" /></a>
 <a href="https://dribbble.com/sabarinathan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sabarinathan7" height="30" width="40" /></a>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw24VFLcghmugtAUJcd6St51&ust=1718695835395000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC3u4yP4oYDFQAAAAAdAAAAABAE"/>
+<img align="center" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="" width="130px" height="130px">
 </p>
 <hr width="50%">
 <h3 align="left">Languages and Tools:</h3>

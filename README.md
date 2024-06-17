@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabarinathan7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabarinathan7/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25600657/sabari-nathan-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25600657/sabari-nathan-g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabarinathan7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarinathan7/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sabari-nathan-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sabari-nathan-g" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/bulletsabari.raj?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bulletsabari.raj?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/sabarinathan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sabarinathan7" height="30" width="40" /></a>
+<a href="https://instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="correpted_character_8.0?igsh=eghynxk3owe5dnns" height="30" width="40" /></a>
+<a href="https://dribbble.com/sabarinathan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sabarinathan7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,25 +1,53 @@
-<h1 align="center">Hi 👋, I'm SABARINATHAN G</h1>
+![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabarinathan+G!;" />
+</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Angular.js and MERN stack is going now in KGisl College**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Sabarinathanan/Portfolio)
 
 - 💬 Ask me about **MERN**
 
--  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk)
 
-- 📫 How to reach me **sabariraj773@gmail.com**
-<hr width="100%">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabarinathan7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarinathan7/" height="30" width="40" /></a>
-<a href="https://instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="correpted_character_8.0?igsh=eghynxk3owe5dnns" height="30" width="40" /></a>
-<a href="https://fb.com/bulletsabari.raj?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bulletsabari.raj?mibextid=zbwkwl" height="30" width="40" /></a>
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="" width="130px" height="130px">
-</p>
-<hr width="35%">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
-<hr width="100%">
+- <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+ 
+ 🔭 I’m currently looking for **a Job**
+ 
+📫 How to reach me **sabariraj773@gmail.com**
+  
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk)
+
+👨‍💻 All of my projects are available at [Portfolio](https://github.com/Sabarinathanan/Portfolio) 
+
+🌱 I’m currently learning **Angular.js and MERN stack is going now in KGisl College**
+
+ </div>
+
+<div align="center"> 
+    <a href="https://wa.me/7092937773">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+  <a href="sabariraj773@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/sabarinathan7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://instagram.com/correpted_character_8.0?igsh=eghynxk3owe5dnns">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</div>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,express,nodejs,angular,typescript" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,bootstrap,tailwind,vercel,postman,vite" /><br>
+</div>

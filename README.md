@@ -13,7 +13,7 @@
  
 📫 How to reach me **sabariraj773@gmail.com**
   
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BiCrttdZWTXfLvx3tN-Yp_Qgdtz3Av2k/view?usp=drivesdk)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GIhplovgAqkdGXtXkXDjPHtPH6ocvJrM/view?usp=drivesdk)
 
 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Sabarinathanan/Portfolio) 
 

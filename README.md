@@ -15,8 +15,6 @@
   
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GIhplovgAqkdGXtXkXDjPHtPH6ocvJrM/view?usp=drivesdk)
 
-👨‍💻 All of my projects are available at [Portfolio](https://github.com/Sabarinathanan/Portfolio) 
-
 🌱 I’m currently learning **Angular.js and MERN stack is going now in KGisl College**
 
  </div>
